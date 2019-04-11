@@ -9,6 +9,7 @@ I want to group into this repository the solution for many of the exercises you 
 #### Exercises
 
 - [acronym](ruby/acronym/)
+- [bob](ruby/bob/)
 - [difference-of-squares](ruby/difference-of-squares/)
 - [gigasecond](ruby/gigasecond/)
 - [hamming](ruby/hamming/)

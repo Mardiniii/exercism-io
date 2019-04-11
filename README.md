@@ -14,6 +14,7 @@ I want to group into this repository the solution for many of the exercises you 
 - [hamming](ruby/hamming/)
 - [hello-world](ruby/hello-world/)
 - [high-scores](ruby/high-scores/)
+- [leap](ruby/leap/)
 - [matrix](ruby/matrix/)
 - [nth-prime](ruby/nth-prime/)
 - [pangram](ruby/pangram/)

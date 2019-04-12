@@ -8,6 +8,7 @@ I want to group into this repository the solution for many of the exercises you 
 
 #### Exercises
 
+- [accumulate](ruby/accumulate)
 - [acronym](ruby/acronym/)
 - [bob](ruby/bob/)
 - [difference-of-squares](ruby/difference-of-squares/)

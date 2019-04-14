@@ -23,3 +23,4 @@ I want to group into this repository the solution for many of the exercises you 
 - [raindrops](ruby/raindrops/)
 - [rna-transcription](ruby/rna-transcription/)
 - [sieve](ruby/sieve/)
+- [strain](ruby/strain/)

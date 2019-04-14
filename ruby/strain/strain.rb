@@ -1,14 +1,11 @@
 class Array
   def keep
-    return [] if size.zero?
     return to_enum :keep unless block_given?
-
-    out = []
-    each { |e| out << e if yield(e) }
-    out
+    each_with_object([]) { |e, out| out << e if yield(e) }
   end
 
   def discard
-    self - keep { |e| yield(e) }
+    return to_enum :keep unless block_given?
+    each_with_object([]) { |e, out| out << e unless yield(e) }
   end
 end

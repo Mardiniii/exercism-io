@@ -22,6 +22,7 @@ I want to group into this repository the solution for many of the exercises you 
 - [pangram](ruby/pangram/)
 - [raindrops](ruby/raindrops/)
 - [rna-transcription](ruby/rna-transcription/)
+- [series](ruby/series)
 - [sieve](ruby/sieve/)
 - [strain](ruby/strain/)
 - [sum-of-multiples](ruby/sum-of-multiples/)

@@ -1,3 +1,44 @@
 ruby/*/*.byebug_history
+
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+
+##############################
+## Gradle
+##############################
+bin/
+java/*/build/
+java/*/.gradle
+java/*/build.gradle
+java/*/gradlew
+java/*/gradlew.bat
+.gradletasknamecache
+gradle-app.setting
+gradle-wrapper.jar
+
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
 .idea/*
 java/*/.idea/*
+
+
+##############################
+## OS X
+##############################
+.DS_Store
